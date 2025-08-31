@@ -57,12 +57,18 @@ print(f"Predicted value: {pre}")
 <img width="558" height="222" alt="310191054-4015031e-f796-4985-b91e-2bcad67262af" src="https://github.com/user-attachments/assets/0e06b9c5-99d5-433a-9dfc-1e16579b75cf" />
 
 VALUE OF X
+
+
 <img width="225" height="713" alt="310191084-ab2f2037-d0d3-4828-ad78-8ca22db3770d" src="https://github.com/user-attachments/assets/26efb19c-91c1-4982-a279-814f34b29677" />
 
 VALUE OF X1
+
+
 <img width="343" height="707" alt="310191128-6a38641e-c102-473b-9bf2-a6afeaabcdc6" src="https://github.com/user-attachments/assets/da58f278-bba7-47cc-a436-4901eb0f6417" />
 
 PREDICTED VALUE
+
+
 <img width="247" height="46" alt="310191173-ae2ae2a4-16a5-4639-814d-5530c01c616d" src="https://github.com/user-attachments/assets/e9a6a462-82df-4c71-b19f-0270e4305710" />
 
 ## Result:
